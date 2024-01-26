@@ -1,8 +1,8 @@
-{churchhill tank}
+{stug 3 tank destroyer}
 cost = 120
 _____________________________
 
-Main gun armour damage = 45
+Main gun armour damage = 60
 
 Main gun personel damage = 20
 
@@ -12,27 +12,20 @@ Mg armour damage = 10
 
 Mg personel damage = 20
 
-{if crocodile varient}
-cost = 150
-
-flame thrower spread = 6 cm
-
-flame thrower personel damage = 40
-
-flame thrower armour damage = 20
+range = 45 cm
 _______________________________
 
 {Armour}
 
 top = 30
 
-sides = 85
+sides = 75
 
-front = 100
+front = 80
 
-back = 80
+back = 65
 ________________________________
 {movement}
-fat = 20cm
-hill = 20cm
-uneven = 20cm
+fat = 45cm
+hill = 30cm
+uneven = 35cm
