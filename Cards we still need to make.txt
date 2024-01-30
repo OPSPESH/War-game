@@ -1,0 +1,24 @@
+planes
+ 
+spitfire
+hawker typhoon
+messerschmitt bf 109
+focke-wulf Fw 190
+______________________________
+tanks/armed vehicles
+
+panther 2
+t-34
+tiger 1
+bren gun/universal carrier
+______________________________
+tractors/unarmed vehicles
+
+Morris CS8 
+AEC matador
+______________________________
+misc guns
+
+BL 5.5-inch Medium Gun
+Bofors 40mm Gun 
+6-pounder anti-tank gun
