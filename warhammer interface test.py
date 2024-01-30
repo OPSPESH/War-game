@@ -20,7 +20,7 @@ def cards():
         if inp == '1':
             print('one')
         elif inp == '2':
-            print(os.listdir("cards/tanks"))
+            print(os.listdir('cards/tanks'))
             inp = input('Select a card')
             if inp == 'churchhill':
                 card = open('cards/tanks/churchhill.txt')
@@ -35,7 +35,26 @@ def cards():
                 print('')
                 card.close()
         elif inp == '3':
-            print('three')
+            print(os.listdir('cards/planes'))
+            inp = input('Select a card')
+            if inp == 'spitfire':
+                card = open('cards/planes/spitfire.txt')
+                print('')
+                print(card.read())
+                print('')
+                card.close()
+            elif inp == 'typhoon' or 'hawker typhoon':
+                card = open('cards/planes/hawker typhoon.txt')
+                print('')
+                print(card.read())
+                print('')
+                card.close()
+            if inp == 'messerschmitt':
+                card = open('cards/planes/messerschmitt.txt')
+                print('')
+                print(card.read())
+                print('')
+                card.close()
         elif inp == '4':
             print('four')
         elif inp == 'home':
