@@ -1,6 +1,6 @@
-Modified bolt-action rule book. 
+Modified bolt-action rule book made to be more realistic. 
 WARNING THIS WILL BE SCUFFED.
-This is a WW2 war game at 1/72 and 1/76 scale with tanks, planes, infantry and artillery/ AA guns.
+This is a WW2 war game at any scale you want with tanks, planes, infantry and artillery/ AA guns.
 You will need a set of D6 dice or use the dice roller on the program.
 This game has 2 movement phases + however many attack phases specified on the card.
 ____________________________________________________________________________________________________________________________________________________________
