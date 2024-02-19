@@ -1,0 +1,33 @@
+_______________________________
+{bren gun carrier}
+cost = 30
+_______________________________
+{damage}
+
+_______________________________
+{armour}
+
+front = 30
+
+side = 30
+
+back = 30
+_______________________________
+{movement}
+
+{without towing}
+
+flat = 60cm
+
+hill = 45cm
+
+uneven = 35cm
+
+{with towing}
+
+flat = 50cm
+
+hill = 35cm
+
+uneven = 25cm
+_______________________________

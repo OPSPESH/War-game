@@ -1,0 +1,34 @@
+_____________________________
+{heavy machine gun}
+cost =20
+
+max per squad 2 
+(when firing mg you cant fire 1 other infantry man as he becomes a loader)
+_____________________________
+
+mg armour damage = 10
+
+mg infantry damage = 2
+
+mg aircraft damage = 10
+
+roll to hit infantry = 2+
+
+roll to hit armour = 2+
+
+roll to hit aircraft = 4+
+
+health front = 20
+
+health back and sides = 20
+
+roll 7 dice 
+
+range = 35cm
+________________________________
+
+{movement}
+flat = 8cm
+hill = 5cm
+uneven = 5cm
+_______________________________

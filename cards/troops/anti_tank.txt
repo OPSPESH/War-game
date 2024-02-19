@@ -1,0 +1,48 @@
+__________________________________
+{anti tank}
+
+cost = 20
+max per squad 2
+__________________________________
+{rifle}
+
+rifle armour damage = 15
+
+rifle infantry damage = 2
+
+rifle aircraft damage = 5
+
+rifle range = 35 cm
+
+roll to hit infantry = 2+
+
+roll to hit armour = 2+
+
+roll to hit aircraft = 5+
+
+________________________________
+{anti tank}
+
+anti tank armour damage = 40
+
+anti tank infantry damage = 2
+
+anti tank explosive area = 5cm
+
+anti tank range = 25cm
+
+roll to hit infantry = 4+
+
+roll to hit armour = 3+
+
+roll to hit aircraft = 6+
+
+_______________________________
+health = 2
+____________________________________
+
+{movement}
+flat = 15cm
+hill = 10cm
+uneven = 15cm
+_______________________________________

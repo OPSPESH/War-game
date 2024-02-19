@@ -1,0 +1,33 @@
+_______________________________
+{lmg}
+
+cost = 15
+max per squad 4
+(when firing mg you cant fire 1 other infantry man as he becomes a loader)
+_____________________________
+
+mg armour damage = 8
+
+mg infantry damage = 2
+
+mg aircraft damage = 8
+
+roll to hit infantry = 2+
+
+roll to hit armour = 2+
+
+roll to hit aircraft = 4+
+
+health front back and sides = 2
+
+roll 5 dice 
+
+range = 35cm
+
+________________________________
+
+{movement}
+flat = 12cm
+hill = 7cm
+uneven = 7cm
+__________________________________

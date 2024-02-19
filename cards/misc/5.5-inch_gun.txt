@@ -1,0 +1,10 @@
+{5.5-inch gun}
+cost = 70
+_____________________________
+{damage}
+
+personal damage = 20
+
+roll to hit = 3-6
+
+range = 40cm

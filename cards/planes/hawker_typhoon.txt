@@ -1,0 +1,46 @@
+_____________________________
+{hawker typhoon}
+cost = 150
+_____________________________
+{damage}
+
+Mg armour damage = 20
+
+Mg strafe damage = 20
+
+Mg roll to hit = 3-6
+
+Mg range = 30cm
+
+{missiles x8}
+
+damage = 10 
+
+aoe = 5cm 
+
+range = 15cm 
+
+{bombs x2}
+
+damage = 20
+
+aoe = 10cm
+
+range = 10cm
+_______________________________
+{armour}
+
+engine armour = 0
+
+top armour = 90
+
+bottom armour = 125
+________________________________
+{movement}
+
+forward = 80cm
+
+left = 75cm
+
+right = 75cm 
+_____________________________

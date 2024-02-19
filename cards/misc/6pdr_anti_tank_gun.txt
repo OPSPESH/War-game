@@ -1,0 +1,16 @@
+_______________________________
+{6PDR anti tank gun}
+cost = 60
+_____________________________
+{damage}
+
+Main gun armour damage = 30
+
+Main gun roll to hit = 3-6
+
+Main gun range = 20 cm
+_______________________________
+{Armour}
+
+front = 35
+_______________________________

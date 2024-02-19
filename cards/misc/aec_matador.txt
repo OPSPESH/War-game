@@ -1,0 +1,32 @@
+_______________________________
+{AEC matador}
+cost = 20
+_______________________________
+{armour}
+
+front = 10
+
+side = 10
+
+back = 10
+
+top = 5
+_______________________________
+{movement}
+
+{without towing}
+
+flat = 40cm
+
+hill = 35cm
+
+uneven = 20cm
+
+{with towing}
+
+flat = 35cm
+
+hill = 30cm
+
+uneven = 15cm
+_______________________________

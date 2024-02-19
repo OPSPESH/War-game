@@ -1,0 +1,30 @@
+___________________________________
+{ rifle infantry  }
+
+cost = 1
+max per squad 20
+__________________________________
+rifle armour damage = 5
+
+rifle infantry damage = 2
+
+rifle aircraft damage = 5
+
+roll to hit infantry = 3+
+
+roll to hit armour = 2+
+
+roll to hit aircraft = 5+
+
+health front back and sides = 1
+
+roll 1 dice
+
+range = 40
+____________________________________
+
+{movement}
+flat = 15cm
+hill = 10cm
+uneven = 15cm
+________________________________________

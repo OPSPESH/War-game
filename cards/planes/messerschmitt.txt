@@ -1,0 +1,30 @@
+_____________________________
+{Messerschmitt}
+cost = 125 
+_____________________________
+{damage}
+
+Mg armour damage = 15
+
+Mg strafe damage = 15
+
+Mg roll to hit = 3-6
+
+Mg range = 30cm
+_______________________________
+{armour}
+
+engine armour = 5
+
+top armour = 85
+
+bottom armour = 125
+________________________________
+{movement}
+
+forward = 85cm
+
+left = 80cm
+
+right = 80cm
+_____________________________

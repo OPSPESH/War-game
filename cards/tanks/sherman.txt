@@ -1,0 +1,55 @@
+_____________________________
+{sherman}
+cost = 120
+_____________________________
+{damage}
+
+Main gun armour damage = 45
+
+Main gun personel damage = 20
+
+Main gun aircraft damage = 1
+
+Main gun roll to hit = 3-6
+
+Main gun range = 30 cm
+
+Mg armour damage = 10
+
+Mg personel damage = 20
+
+Mg roll to hit = 3-6
+
+Mg range = 15
+
+{if T34 calliope installed}
+cost = 180 (1pps)
+
+armour damage = 10
+
+personel damage = 5
+
+roll to hit = 6
+
+range = 40cm 
+
+time to reload = 2 turns 
+_______________________________
+{Armour}
+
+top = 30
+
+sides = 85
+
+front = 100
+
+back = 80
+________________________________
+{movement}
+
+flat = 30cm
+
+hill = 20cm
+
+uneven = 20cm
+_____________________________

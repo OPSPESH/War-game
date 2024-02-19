@@ -1,0 +1,43 @@
+_____________________________
+{spitfire}
+cost = 125 
+_____________________________
+{damage}
+
+Mg armour damage = 20
+
+Mg strafe damage = 20
+
+Mg roll to hit = 3-6
+
+Mg range = 30cm
+
+{if spitbomber}
+
+{bombs x2}
+damage = 20
+
+aoe = 10cm
+
+range = 10
+_______________________________
+{armour}
+
+engine armour = 0
+
+top armour = 80
+
+bottom armour = 120
+________________________________
+{movement}
+
+forward = 75cm
+
+left = 50cm forward - 20cm left
+
+bank left = 20cm forward - 50cm left
+ 
+right = 50cm forward - 20cm right
+
+bank right = 20cm forward - 50cm right
+_____________________________ 

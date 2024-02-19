@@ -1,0 +1,30 @@
+_______________________________
+{morris CS8}
+cost = 20
+_______________________________
+{armour}
+
+front = 5
+
+side = 5
+
+back = 5
+_______________________________
+{movement}
+
+{without towing}
+
+flat = 60cm
+
+hill = 45cm
+
+uneven = 35cm
+
+{with towing}
+
+flat = 50cm
+
+hill = 35cm
+
+uneven = 25cm
+_______________________________

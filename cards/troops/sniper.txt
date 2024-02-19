@@ -1,0 +1,28 @@
+________________________________________
+{sniper rifle}
+
+cost = 6
+max per squad 2
+__________________________________
+rifle armour damage = 5
+
+rifle infantry damage = 2
+
+rifle aircraft damage = 5
+
+roll to hit infantry = 2+
+
+roll to hit armour = 2+
+
+roll to hit aircraft = 5+
+
+health front back and sides = 2
+
+range = 60cm
+____________________________________
+
+{movement}
+flat = 15cm
+hill = 10cm
+uneven = 15cm
+_______________________________________
