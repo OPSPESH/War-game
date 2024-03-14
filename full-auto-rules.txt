@@ -2,10 +2,17 @@ Modified bolt-action rule book.
 WARNING THIS WILL BE SCUFFED.
 This is a WW2 war game at 1/72 and 1/76 scale with tanks, planes, infantry and artillery/ AA guns.
 You will need a set of D6 dice or use the dice roller on the program.
-This game has 2 movement phases + however many attack phases specified on the card.
+This game has 3 phases per turn that can be configuranted in any way that you want you can pick from any of 
+1.move
+2.attack with primary weapon
+3.attack with secondary weapons 
+4.attack with third weapon (if card has one )
+but you can only use the same attack once for example you can only use your primary attack once
+however you can move for all of the phases
 ____________________________________________________________________________________________________________________________________________________________
 Movement
-In the movement phases you can move up to the distance specifeid on the pieces card on one terrian.
+In the movement phases you can move up to the distance specifeid on the pieces card on that type of terrain
+you can take up 3 of your 3 fazes .
 ____________________________________________________________________________________________________________________________________________________________Tank attack
 In the first attack phase you can attack with the main gun so long as the target is within range.
 If the target's armour points are higher than the damage you piece does then you roll a d6 with an extra -1 for every 10 points the armour of your target is higher than the damage you do and you must roll a 5 or 6 to hit  e.g if your gun does 40 damage and the armour of the thing you are attaking if 60 you roll a 1d6-2
