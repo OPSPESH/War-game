@@ -2,8 +2,8 @@ Modified bolt-action rule book.
 WARNING THIS WILL BE SCUFFED.
 This is a WW2 war game at 1/72 and 1/76 scale with tanks, planes, infantry and artillery/ AA guns.
 You will need a set of D6 dice or use the dice roller on the program.
-This game has 3 phases per turn that can be configuranted in any way that you want you can pick from any of 
-each round you get 5 turns all of which have to be on differwnt units 
+each round you get 5 turns all of which have to be on different units 
+there are 3 phases per turn that can be configuranted in any way that you want you can pick from any of 
 1.move
 2.attack with primary weapon
 3.attack with secondary weapons 
@@ -14,7 +14,9 @@ ________________________________________________________________________________
 Movement
 In the movement phases you can move up to the distance specifeid on the pieces card on that type of terrain
 you can take up 3 of your 3 fazes for eacch faze you chose to move you can move the specified ammount stated on the card you are playing
-____________________________________________________________________________________________________________________________________________________________Tank attack
-In the first attack phase you can attack with the main gun so long as the target is within range.
-If the target's armour points are higher than the damage you piece does then you roll a d6 with an extra -1 for every 10 points the armour of your target is higher than the damage you do and you must roll a 5 or 6 to hit  e.g if your gun does 40 damage and the armour of the thing you are attaking if 60 you roll a 1d6-2
-If you do more damage than your target's armour then you just roll a d6. However if you roll a 1 you do half damage unless your target has 0 armour you hit no matter what 
+____________________________________________________________________________________________________________________________________________________________
+Tank attack
+when you want to attack in a tank you must select what weapon (That could be your primary secondary or tetery weapon if in card) 
+for each attack you chose to do you must role the amount of d6s specified on the card and the total of thest must be the same as or over the specified value on the card to score a hit
+the ammount scored on the d6s does affect damage 
+if the score on the d6s is half of the nubmber of points to score a hit it will do half damage 
