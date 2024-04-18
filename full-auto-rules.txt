@@ -2,14 +2,14 @@ Modified bolt-action rule book.
 WARNING THIS WILL BE SCUFFED.
 This is a WW2 war game at 1/72 and 1/76 scale with tanks, planes, infantry and artillery/ AA guns.
 You will need a set of D6 dice or use the dice roller on the program.
-each round you get 5 turns all of which have to be on different units 
+each round you get 3 phases all of which have to be on different units 
 there are 3 phases per turn that can be configuranted in any way that you want you can pick from any of 
 1.move
 2.attack with primary weapon
 3.attack with secondary weapons 
 4.attack with third weapon (if card has one )
 but you can only use the same attack once for example you can only use your primary attack once
-however you can move for all of the phases
+however you can move for all of the phases if you wanted
 ____________________________________________________________________________________________________________________________________________________________
 Movement
 In the movement phases you can move up to the distance specifeid on the pieces card on that type of terrain
@@ -30,3 +30,13 @@ ________________________________________________________________________________
 artilery attack 
 with artillery all ranges are specified on the card however with the blast area of the shell you use the template that is specified on the card 
 there are 5 sizes of template
+_____________________________________________________________________________________________________________________________________________________________
+points system and repares
+at the start of each game you get 3000 points thes can be spent on any cards of your choice 
+to gain points during a game you must capture objectives that are marked by a flag every round you get 50 points for all of the objectives you controll (the number of total objectives is up to you)
+if a vehicle gets destroyed you can spend a quater of its specified price and send out a squad containint 3 engineers to get it it will take 3 rounts to repare it but you can move it with a recovery vehicle 
+_____________________________________________________________________________________________________________________________________________________________
+fort building
+you can build a bunker for 200 points to do this it requires 3 engineers and 3 turns
+a buker has 200 healt and a hevy machine gun facing all directions front sides and back
+
