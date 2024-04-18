@@ -1,0 +1,31 @@
+{panther}
+cost = 150
+_____________________________
+
+Main gun armour damage = 50
+
+Main gun personel damage = 20
+
+Main gun aircraft damage = 1
+
+Mg armour damage = 10
+
+Mg personel damage = 20
+
+range = 45 cm
+_______________________________
+
+{Armour}
+
+top = 30
+
+sides = 70
+
+front = 80
+
+back = 65
+________________________________
+{movement}
+fat = 30cm
+hill = 27cm
+uneven = 28cm

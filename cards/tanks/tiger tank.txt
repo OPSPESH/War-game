@@ -1,0 +1,36 @@
+{tiger 1}
+cost = 150
+every turn on flat roll d6 if 5 or above it breaks down
+every turn on hill roll d6 if 3 or above it breaks down
+_____________________________
+
+Main gun armour damage = 60
+
+Main gun personel damage = 20
+
+Main gun aircraft damage = 1
+
+main gun range = 40
+
+Mg armour damage = 10
+
+Mg personel damage = 20
+
+mg range = 20
+
+_______________________________
+
+{Armour}
+
+top = 40
+
+sides = 50
+
+front = 60
+
+back = 50
+________________________________
+{movement}
+fat = 20cm
+hill = 10cm
+uneven = 15cm

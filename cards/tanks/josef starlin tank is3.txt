@@ -1,0 +1,38 @@
+{is3 josef starlin}
+cost = 150
+every turn roll d6 if 5 or above it breaks down
+_____________________________
+
+Main gun armour damage = 70
+
+Main gun personel damage = 20
+
+Main gun aircraft damage = 1
+
+main gun range = 40
+
+Mg armour damage = 10
+
+Mg personel damage = 20
+
+mg range = 20
+
+anti aircraft aircraft damage = 10
+
+anti aircraft range = 30
+_______________________________
+
+{Armour}
+
+top = 40
+
+sides = 60
+
+front = 70
+
+back = 50
+________________________________
+{movement}
+fat = 20cm
+hill = 15cm
+uneven = 20cm

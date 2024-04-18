@@ -1,0 +1,34 @@
+{t34}
+cost = 100
+every turn roll d6 if 4 or above it breaks down
+_____________________________
+
+Main gun armour damage = 50
+
+Main gun personel damage = 20
+
+Main gun aircraft damage = 1
+
+main gun range = 40
+
+Mg armour damage = 10
+
+Mg personel damage = 20
+
+mg range = 20
+_______________________________
+
+{Armour}
+
+top = 30
+
+sides = 50
+
+front = 55
+
+back = 40
+________________________________
+{movement}
+fat = 30cm
+hill = 30cm
+uneven = 30cm
