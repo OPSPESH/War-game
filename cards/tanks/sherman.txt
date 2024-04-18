@@ -12,7 +12,7 @@ Main gun aircraft damage = 1
 
 Main gun roll to hit = 3-6
 
-Main gun range = 30 cm
+Main gun range = 35 cm
 
 Mg armour damage = 10
 
