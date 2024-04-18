@@ -10,11 +10,15 @@ Main gun personel damage = 20
 
 Main gun aircraft damage = 1
 
+Main gun roll to hit = 3-6
+
 main gun range = 40
 
 Mg armour damage = 10
 
 Mg personel damage = 20
+
+Main gun roll to hit = 4-6
 
 mg range = 20
 
