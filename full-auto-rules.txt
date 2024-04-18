@@ -17,6 +17,16 @@ you can take up 3 of your 3 fazes for eacch faze you chose to move you can move 
 ____________________________________________________________________________________________________________________________________________________________
 Tank attack
 when you want to attack in a tank you must select what weapon (That could be your primary secondary or tetery weapon if in card) 
-for each attack you chose to do you must role the amount of d6s specified on the card and the total of thest must be the same as or over the specified value on the card to score a hit
+for each attack you chose to do you must role the amount of d6s specified on the card or if you chose to use a machine gun it requires 5 dice and the total of thest must be the same as or over the specified value on the card to score a hit
 the ammount scored on the d6s does affect damage 
 if the score on the d6s is half of the nubmber of points to score a hit it will do half damage 
+if you score a hit you would subtract the damage done from the targets health
+_____________________________________________________________________________________________________________________________________________________________
+infantry attack
+with infantry you must chose the type of soldiers that you want in your squad the max number in a squad is specified aswell as health price damage and other features that are special to that card
+attacking is same as on the tank combat however infantry has a low health
+in general if a card has a flame attack you must use a template
+_____________________________________________________________________________________________________________________________________________________________
+artilery attack 
+with artillery all ranges are specified on the card however with the blast area of the shell you use the template that is specified on the card 
+there are 5 sizes of template
