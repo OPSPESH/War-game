@@ -20,7 +20,7 @@ Mg personel damage = 20
 
 Mg to hit = 3-6
 
-Mg range = 15 cm 
+Mg range = 20 cm 
 _______________________________
 {Armour}
 
