@@ -17,9 +17,13 @@ Mg armour damage = 10
 
 Mg personel damage = 20
 
+Mg roll to hit = 4-6
+
 mg range = 20
 
 anti aircraft aircraft damage = 10
+
+anti aircraft roll to hit = 4-6
 
 anti aircraft range = 30
 _______________________________
